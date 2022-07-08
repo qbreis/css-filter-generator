@@ -22,6 +22,8 @@ In order to install and activate the plugin you have two options:
 
 Once it is installed you will find the plugin functionallity in wp-admin menu Tools, submenu CSS filter generator settings.
 
+![Css Filter Generator Plugin Screen](/images/screenshot.png?raw=true "Css Filter Generator Plugin Screen")
+
 ## TODO
 
 Here is the list of things that I want to implement. Pull requests are welcome :)
