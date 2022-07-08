@@ -74,14 +74,10 @@ class cssfiltergenerator_Plugin {
                         <p id="lossDetail"></p>
                     </td>
                     <td>
-                        <p>This Plugin is based in CodePen <a href="https://codepen.io/sosuke/pen/Pjoqqp" target="_blank" rel="noopener noreferrer">https://codepen.io/sosuke/pen/Pjoqqp</a> by <a href="https://codepen.io/sosuke" target="_blank" rel="noopener noreferrer">Barrett Sonntag</a>.
-                        <p>The goal was to be able to create custom style sheets and allow for the coloring of icons for <a href="https://sosuke.com/creating-a-dovetail-agent-theme/" target="_blank">Creating a Dovetail Agent Theme</a>.</p>
-                        <p>For this code to work well the starting color needs to be black. If your icon set isn't black you can prepend "brightness(0) saturate(100%)" to your filter property which will first turn the icon set to black.</p>
-                        <p>
-                            For as long as I worked on creating this solution from multiple resources I found some had spent far
-                            longer to create this already completed solution. Only slightly modified to focus on HEX colors. Credit
-                            goes to MultiplyByZer0 for their post <a href="https://stackoverflow.com/a/43960991/604861" target="_blank">https://stackoverflow.com/a/43960991/604861</a>
-                        </p>
+                        <p>This is a standalone WordPress plugin for development purpose ONLY.</p>
+                        <p>This plugin is based in <a href="https://codepen.io/" rel="nofollow">CodePen</a> <a href="https://codepen.io/sosuke/pen/Pjoqqp" rel="nofollow">https://codepen.io/sosuke/pen/Pjoqqp</a> by <a href="https://codepen.io/sosuke" rel="nofollow">Barrett Sonntag</a> and <a href="https://stackoverflow.com/" rel="nofollow">Stack Overflow</a> discussion <a href="https://stackoverflow.com/questions/42966641/how-to-transform-black-into-any-given-color-using-only-css-filters" rel="nofollow">How to transform black into any given color using only CSS filters</a>.</p>
+                        <p>It allows you to create css filter style for coloring icons.</p>
+                        <p>For this plugin to work well the starting color needs to be black. The file format can be any format for graphics used on the web: png, jpg, gif, svg, etc, as long as the starting color is black. If your icon set isn't black you can prepend "brightness(0) saturate(100%)" to your filter property so it will first turn the icon set to black.</p>
                     </td>
                 </tr>
             </table>
