@@ -15,9 +15,8 @@ Download this repository ZIP file.
 
 In order to install and activate the plugin you have two options:
 
-1- Unzip this file containing only one folder with the plugin, move this folder into the wp-content/plugins folder and activate the plugin.
-
-2- Simply go to wp-admin menu Plugins, Add New, Upload plugin, select ZIP file you just downloaded, Install Now and Activate Plugin.
+1. Unzip this file containing only one folder with the plugin, move this folder into the wp-content/plugins folder and activate the plugin.
+2. Simply go to wp-admin menu Plugins, Add New, Upload plugin, select ZIP file you just downloaded, Install Now and Activate Plugin.
 
 ## Usage
 
