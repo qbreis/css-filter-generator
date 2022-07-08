@@ -27,4 +27,4 @@ Once it is installed you will find the plugin functionallity in wp-admin menu To
 Here is the list of things that I want to implement. Pull requests are welcome :)
 
 - Add WP Dashboard Widget with this.
-- Add c some kind of color picker.
+- Add some kind of color picker, do not use JQuey please ;-)
