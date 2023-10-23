@@ -37,13 +37,6 @@ class cssfiltergenerator_Plugin {
             $callback
         );
 
-        /** Clean template string translations file **/
-        if ( get_option('thr_plugin_language') == "fr" ) {
-            $file = 'thr_language_translations_fr.txt';
-            $current = '';
-            $path = get_home_path().'wp-content/plugins/cssfiltergenerator/temp/';
-            file_put_contents( $path.$file, $current );
-        }
     }
     public function plugin_settings_page_content() {
         $plugin_data = get_file_data(__FILE__, array('Version' => 'Version'), false);
